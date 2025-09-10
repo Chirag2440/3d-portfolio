@@ -1,4 +1,5 @@
 import {
+    chatlogo,
     gta6,
     keeper,
     contact,
@@ -125,5 +126,11 @@ export const projects = [
         description: 'A note-taking web application built with React.js, JavaScript, and CSS3.The app allows users to create, organize, and delete notes efficiently. It features a clean, responsive UI with real-time updates, ensuring a seamless user experience.',
         link: 'https://github.com/Chirag2440/KeeperApp',
     },
-    
+    {
+        iconUrl: chatlogo,
+        theme: 'btn-back-green',
+        name: 'Quick-Chat',
+        description: 'A full-stack, realtime chat application built with the MERN stack (MongoDB, Express.js, React, Node.js) and powered by Socket.io for instant, bidirectional communication. Users can create accounts, join conversations, and exchange messages in realtime with other users.',
+        link: 'https://github.com/Chirag2440/quick-Chat',
+    }
 ];

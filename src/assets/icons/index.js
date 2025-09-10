@@ -20,8 +20,10 @@ import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import gta6 from './gta6.svg'
 import keeper from './keeper.svg'
+import chatlogo from './chatlogo.svg'
 
 export {
+    chatlogo,
     css,
     gta6,
     express,
