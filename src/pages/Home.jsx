@@ -1,9 +1,13 @@
 import {Suspense, useState, useEffect, useRef} from 'react'
 import { Canvas } from '@react-three/fiber';
-import { Bird, Island, Plane, Sky } from "../models";
+import Island from '../models/Island';
+import Bird from '../models/Bird';
+import Sky from '../models/Sky';
+import Plane from '../models/Plane';
 import relax from '../assets/relax.mp3';
 import { soundoff, soundon } from '../assets/icons';
-import { HomeInfo, Loader } from "../components";
+import HomeInfo from "../components/HomeInfo";
+import Loader from "../components/Loader"
 
 
 
