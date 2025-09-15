@@ -21,8 +21,10 @@ import soundoff from './soundoff.png'
 import gta6 from './gta6.svg'
 import keeper from './keeper.svg'
 import chatlogo from './chatlogo.svg'
+import moctail from './moctail.svg'
 
 export {
+    moctail,
     chatlogo,
     css,
     gta6,

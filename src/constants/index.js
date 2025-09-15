@@ -1,4 +1,5 @@
 import {
+    moctail,
     chatlogo,
     gta6,
     keeper,
@@ -132,5 +133,12 @@ export const projects = [
         name: 'Quick-Chat',
         description: 'A full-stack, realtime chat application built with the MERN stack (MongoDB, Express.js, React, Node.js) and powered by Socket.io for instant, bidirectional communication. Users can create accounts, join conversations, and exchange messages in realtime with other users.',
         link: 'https://github.com/Chirag2440/quick-Chat',
+    },
+    {
+        iconUrl: moctail,
+        theme: 'btn-back-pink',
+        name: 'Gin and Genius',
+        description: 'A dynamic, multi-page mocktail recipe website featuring smooth animations and an interactive user interface, built with React and powered by the GSAP animation library for a premium, engaging experience.',
+        link: 'https://github.com/Chirag2440/gsap-Mocktail',
     }
 ];
