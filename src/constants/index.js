@@ -1,5 +1,5 @@
 import {
-    ai,
+    favicon,
     moctail,
     chatlogo,
     gta6,
@@ -143,8 +143,8 @@ export const projects = [
         link: 'https://github.com/Chirag2440/gsap-Mocktail',
     },
     {
-        iconUrl: ai,
-        theme: 'btn-back-violet',
+        iconUrl: favicon,
+        theme: 'btn-back-blue',
         name: 'Quick-GPT',
         description: 'A feature-rich, full-stack web application that harnesses the power of OpenAI GPT model to provide intelligent conversational experiences. Built with the modern MERN (MongoDB, Express.js, React, Node.js) stack, it features a clean, responsive interface and robust backend functionality.',
         link: 'https://github.com/Chirag2440/quick-GPT',

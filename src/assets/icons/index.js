@@ -22,10 +22,10 @@ import gta6 from './gta6.svg'
 import keeper from './keeper.svg'
 import chatlogo from './chatlogo.svg'
 import moctail from './moctail.svg'
-import ai from './ai.svg'
+import favicon from './favicon.svg'
 
 export {
-    ai,
+    favicon,
     moctail,
     chatlogo,
     css,
