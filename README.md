@@ -25,4 +25,4 @@ Netlify, Drei.
 
 
 -> You can see the Deployed Portfolio Here
-https://3d-personalportfolio.netlify.app/
+[(https://3d-portfolio-blush-mu.vercel.app/)]
